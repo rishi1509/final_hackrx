@@ -6,3 +6,4 @@ pdfminer.six
 langchain-community
 spacy
 sentence-transformers==2.2.2
+huggingface_hub==0.12.1
