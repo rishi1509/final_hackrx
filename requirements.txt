@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+pydantic
+faiss-cpu
+pdfminer.six
+langchain-community
+spacy
+sentence-transformers==2.2.2
